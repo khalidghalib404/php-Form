@@ -129,6 +129,9 @@
                     <option value="uk">United Kingdom</option>
                     <option value="india">India</option>
                     <option value="australia">Australia</option>
+                     <option value="uk">United Kingdom</option>
+                    <option value="india">India</option>
+                    <option value="australia">Australia</option>
                 </select>
             </div>
             <div class="form-group">
