@@ -118,7 +118,7 @@
                     <label><input type="checkbox" name="course" value="math"> Mathematics</label>
                     <label><input type="checkbox" name="course" value="physics"> Physics</label>
                     <label><input type="checkbox" name="course" value="chemistry"> Chemistry</label>
-                    <label><input type="checkbox" name="course" value="chemistry"> Sport</label>
+                    <label><input type="checkbox" name="course" value="chemistry"> Sports</label>
                 </div>
             </div>
             <div class="form-group">
