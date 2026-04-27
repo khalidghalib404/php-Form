@@ -8,4 +8,5 @@ echo "{$_GET['department']}<br>";
 echo "{$_GET['course']} <br>" ;
 echo "{$_GET['country']} <br>";
 echo "{$_GET['comment']}<br>";
+echo "{$_GET['hight']}<br>";
 ?>
