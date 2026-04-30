@@ -10,5 +10,6 @@ echo "{$_GET['country']} <br>";
 echo "{$_GET['comment']}<br>";
 echo "{$_GET['hight']}<br>";
 echo "{$_GET['weight ']}<br>";
+echo "{$_GET['edt']}<br>";
 
 ?>
