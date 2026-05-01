@@ -11,5 +11,6 @@ echo "{$_GET['comment']}<br>";
 echo "{$_GET['hight']}<br>";
 echo "{$_GET['weight ']}<br>";
 echo "{$_GET['edt']}<br>";
+echo "{$_GET['date']}<br>";
 
 ?>
